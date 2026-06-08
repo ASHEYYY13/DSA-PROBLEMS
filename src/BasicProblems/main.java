@@ -10,8 +10,9 @@ public class main {
 //        System.out.println(LastDigit2);
 
         int reversedDigit=ReverseDigits.reverseDigits(122);
-        int PowerOfNumber=PowerOfNumbers.reverseExponentiation(4);
-        System.out.println(PowerOfNumber);
+//        int PowerOfNumber=PowerOfNumbers.reverseExponentiation(4);
+        int gcd=GcdOfTwoDIgits.gcd(60,36);
+        System.out.println(gcd);
 
     }
 }
