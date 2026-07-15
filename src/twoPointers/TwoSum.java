@@ -1,4 +1,4 @@
-package Problems_Topic_Wise.twoPointers;
+package twoPointers;
 
 public class TwoSum {
     public static int[] twoSum(int[] numbers, int target) {

@@ -1,7 +1,5 @@
 package Linked_List.DoublyLinkedList;
 
-import Linked_List.SingleyLinkedList.linkedlist;
-
 public class DLL {
 
     private Node tail;

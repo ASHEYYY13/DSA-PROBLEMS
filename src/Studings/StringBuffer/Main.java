@@ -1,4 +1,4 @@
-package Studings.Strings.StringBuffer;
+package Studings.StringBuffer;
 
 public class Main {
     public static void main(String[] args) {

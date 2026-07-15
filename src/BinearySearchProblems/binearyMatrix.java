@@ -1,4 +1,4 @@
-//package BinearySearchProblems;
+package BinearySearchProblems;//package BinearySearchProblems;
 //
 //public class binearyMatrix {
 //    public static void main(String[] args) {

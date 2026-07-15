@@ -1,6 +1,6 @@
 package StacksQuestions;
 
-import java.util.*;
+import java.util.Stack;
 
 public class ImplemmentStackUsingQueues {
     private Stack<Integer> first;

@@ -1,4 +1,4 @@
-package problemsSolving;
+package Problems_Topic_Wise.problemsSolving;
 
 import java.util.ArrayList;
 import java.util.Arrays;

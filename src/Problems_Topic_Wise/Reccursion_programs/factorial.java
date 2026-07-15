@@ -1,4 +1,4 @@
-package Reccursion_programs;
+package Problems_Topic_Wise.Reccursion_programs;
 
 public class factorial {
    public static void main(String[] args) {

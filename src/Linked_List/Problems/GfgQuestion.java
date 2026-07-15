@@ -1,7 +1,5 @@
 package Linked_List.Problems;
 
-import Linked_List.SingleyLinkedList.linkedlist;
-
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.TreeSet;

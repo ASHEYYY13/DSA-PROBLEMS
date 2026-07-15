@@ -1,7 +1,10 @@
 package Linked_List.Problems;
 
 
-import java.util.*;
+import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.TreeSet;
 
 /*
 1.pair swap in the linked list

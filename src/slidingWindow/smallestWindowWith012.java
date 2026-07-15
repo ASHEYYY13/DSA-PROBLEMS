@@ -1,8 +1,5 @@
 package slidingWindow;
 
-import java.util.HashSet;
-import java.util.Set;
-
 public class smallestWindowWith012 {
     public static void main(String[] args) {
         String s="10212";

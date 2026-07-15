@@ -1,4 +1,4 @@
-package binear_prob;
+package Problems_Topic_Wise.binear_prob;
 
 public class search_index {
   public static void main(String[] args) {

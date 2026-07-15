@@ -1,4 +1,4 @@
-package Studings.Strings.StringBuffer;
+package Studings.StringBuffer;
 
 import java.util.Random;
 

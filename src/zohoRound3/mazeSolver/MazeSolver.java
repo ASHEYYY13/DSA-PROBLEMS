@@ -1,6 +1,5 @@
 package zohoRound3.mazeSolver;
 
-import java.util.Map;
 import java.util.Scanner;
 
 public class MazeSolver {

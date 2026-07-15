@@ -1,6 +1,7 @@
 package Linked_List.Problems;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
 
 public class flattens {
     private static Node current;

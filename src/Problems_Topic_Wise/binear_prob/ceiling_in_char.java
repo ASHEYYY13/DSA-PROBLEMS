@@ -1,4 +1,4 @@
-package binear_prob;
+package Problems_Topic_Wise.binear_prob;
 
 public class ceiling_in_char {
    public static void main(String[] args) {

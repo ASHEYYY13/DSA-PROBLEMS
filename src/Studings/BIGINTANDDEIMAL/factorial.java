@@ -1,4 +1,4 @@
-package Studings.Strings.BIGINTANDDEIMAL;
+package Studings.BIGINTANDDEIMAL;
 
 import java.math.BigInteger;
 

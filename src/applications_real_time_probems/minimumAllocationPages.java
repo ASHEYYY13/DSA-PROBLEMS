@@ -1,7 +1,5 @@
 package applications_real_time_probems;
 
-import java.util.Arrays;
-
 public class minimumAllocationPages {
     public static void main(String[] args) {
         int[] arr={15 ,10, 19, 10, 5, 18, 7};

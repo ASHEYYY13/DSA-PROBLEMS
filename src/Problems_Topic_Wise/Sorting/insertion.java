@@ -1,4 +1,4 @@
-package Sorting;
+package Problems_Topic_Wise.Sorting;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package Problems_Topic_Wise.twoPointers;
+package twoPointers;
 
 import java.util.*;
 

@@ -1,6 +1,8 @@
 package slidingWindow;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Deque;
+import java.util.LinkedList;
 
 public class maximumOfEverySubArray {
     public static void main(String[] args) {

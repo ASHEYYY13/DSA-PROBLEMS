@@ -1,4 +1,4 @@
-  package Recursion_pattern_sorting;
+  package Problems_Topic_Wise.Recursion_pattern_sorting;
 
 import java.util.Arrays;
 

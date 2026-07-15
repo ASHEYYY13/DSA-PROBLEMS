@@ -1,4 +1,4 @@
-package problemsSolving;
+package Problems_Topic_Wise.problemsSolving;
 
 public class last_digit {
   public static void main(String[] args) {

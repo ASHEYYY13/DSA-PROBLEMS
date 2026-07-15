@@ -1,4 +1,4 @@
-package Problems_Topic_Wise.twoPointers;
+package twoPointers;
 
 public class MoveZeros {
     public static void moveZeroesBrute(int[] nums) {

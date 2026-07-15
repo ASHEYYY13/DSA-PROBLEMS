@@ -1,4 +1,4 @@
-package Sorting;
+package Problems_Topic_Wise.Sorting;
 
 public class firstMissingPositive {
    public static void main(String[] args) {

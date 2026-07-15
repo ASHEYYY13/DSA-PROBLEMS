@@ -1,8 +1,5 @@
 package Linked_List.Problems;
 
-import Linked_List.SingleyLinkedList.linkedlist;
-
-import java.util.LinkedList;
 import java.util.Stack;
 
 

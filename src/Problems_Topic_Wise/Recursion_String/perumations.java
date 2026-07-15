@@ -1,4 +1,4 @@
-package Recursion_String;
+package Problems_Topic_Wise.Recursion_String;
 
 public class perumations {
     public static void main(String[] args) {

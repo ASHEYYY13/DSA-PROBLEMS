@@ -1,4 +1,4 @@
-package Problems_Topic_Wise.twoPointers;
+package twoPointers;
 
 public class ValidPalindrome {
     public static boolean validaPalindrome(String string){
