@@ -48,8 +48,17 @@ public class Main {
 //        int[] arr={1,1,1,2,2,2,3,3};
 //        System.out.println(RemoveDuplicatesPartTwo.RemoveDuplicatesPartTwo(arr));
 
-        int[] arr={1000000000,1000000000,1000000000,1000000000};
-        List<List<Integer>> ans = FourSum.fourSum(arr,-294967296);
-        System.out.println(ans);
+//        int[] arr={1000000000,1000000000,1000000000,1000000000};
+//        List<List<Integer>> ans = FourSum.fourSum(arr,-294967296);
+//        System.out.println(ans);
+
+//        int[] arr={3,5,3,4};
+//        System.out.println(BoatsToSavePeople.numRescueBoats(arr,5));
+//        int[] arr={3,0,1,0,4,0,2};
+//        System.out.println(TrappingRainWatar.maxRainWaterBetterOptimalTwoPointers(arr));
+//        int[] arr = {3, 5, 10, 15, 17, 12, 9};
+//        System.out.println(SumPairdWithDiffK.sumDiffPairs(arr,4));
+        int [] arr={-6,2,5,-2,-7,-1,3};
+        System.out.println(CountPairsLessThanTarget.countPairsOptimal(  arr,-2));
     }
 }
